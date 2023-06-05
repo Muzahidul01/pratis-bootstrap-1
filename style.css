@@ -1,0 +1,32 @@
+.middle {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.write {
+    width: 250px;
+    text-align: center;
+}
+
+h3 {
+    margin-left: 25px;
+}
+
+.img img {
+    margin-left: 50px;
+}
+
+.client {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+}
+
+.in1 {
+    box-shadow: 10px 5px 15px rgba(0, 153, 255, 0.466);
+}
+
+.faq {
+    text-align: center;
+}
